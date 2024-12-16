@@ -1,0 +1,15 @@
+C:\Users\28mat\Documents\szkoła\C#\wartownik\Zadanie_wartownik\Zadanie_wartownik\bin\Debug\net8.0\Zadanie_wartownik.exe
+C:\Users\28mat\Documents\szkoła\C#\wartownik\Zadanie_wartownik\Zadanie_wartownik\bin\Debug\net8.0\Zadanie_wartownik.deps.json
+C:\Users\28mat\Documents\szkoła\C#\wartownik\Zadanie_wartownik\Zadanie_wartownik\bin\Debug\net8.0\Zadanie_wartownik.runtimeconfig.json
+C:\Users\28mat\Documents\szkoła\C#\wartownik\Zadanie_wartownik\Zadanie_wartownik\bin\Debug\net8.0\Zadanie_wartownik.dll
+C:\Users\28mat\Documents\szkoła\C#\wartownik\Zadanie_wartownik\Zadanie_wartownik\bin\Debug\net8.0\Zadanie_wartownik.pdb
+C:\Users\28mat\Documents\szkoła\C#\wartownik\Zadanie_wartownik\Zadanie_wartownik\obj\Debug\net8.0\Zadanie_wartownik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\28mat\Documents\szkoła\C#\wartownik\Zadanie_wartownik\Zadanie_wartownik\obj\Debug\net8.0\Zadanie_wartownik.AssemblyInfoInputs.cache
+C:\Users\28mat\Documents\szkoła\C#\wartownik\Zadanie_wartownik\Zadanie_wartownik\obj\Debug\net8.0\Zadanie_wartownik.AssemblyInfo.cs
+C:\Users\28mat\Documents\szkoła\C#\wartownik\Zadanie_wartownik\Zadanie_wartownik\obj\Debug\net8.0\Zadanie_wartownik.csproj.CoreCompileInputs.cache
+C:\Users\28mat\Documents\szkoła\C#\wartownik\Zadanie_wartownik\Zadanie_wartownik\obj\Debug\net8.0\Zadanie_wartownik.sourcelink.json
+C:\Users\28mat\Documents\szkoła\C#\wartownik\Zadanie_wartownik\Zadanie_wartownik\obj\Debug\net8.0\Zadanie_wartownik.dll
+C:\Users\28mat\Documents\szkoła\C#\wartownik\Zadanie_wartownik\Zadanie_wartownik\obj\Debug\net8.0\refint\Zadanie_wartownik.dll
+C:\Users\28mat\Documents\szkoła\C#\wartownik\Zadanie_wartownik\Zadanie_wartownik\obj\Debug\net8.0\Zadanie_wartownik.pdb
+C:\Users\28mat\Documents\szkoła\C#\wartownik\Zadanie_wartownik\Zadanie_wartownik\obj\Debug\net8.0\Zadanie_wartownik.genruntimeconfig.cache
+C:\Users\28mat\Documents\szkoła\C#\wartownik\Zadanie_wartownik\Zadanie_wartownik\obj\Debug\net8.0\ref\Zadanie_wartownik.dll
